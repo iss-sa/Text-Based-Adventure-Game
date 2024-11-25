@@ -1,0 +1,10 @@
+(1) You walk on - You don‘t trust that fog.
+(2) You decide it’s the first interesting thing in weeks and go look.
+Left.
+You turn left at the next possibility. 
+You come across a plaine with a huge chasm surrounded by weird 
+dense green-reddish fog. 
+You are very curious about it, 
+but you are not sure if you should check out the chasm. 
+
+>> What do you do?

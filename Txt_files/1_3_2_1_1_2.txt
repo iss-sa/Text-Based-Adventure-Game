@@ -1,0 +1,14 @@
+The End!(Happy)
+(K) Press K!
+
+Leave Oak Valley Medical Centre.
+After you are finally completely healed you explore Oak Valley. 
+It is a beautiful City with a lake right in the middle. 
+A legend says that this lake - The Passage - can take you to 
+another world if you walk into it. 
+You decide to enter the "Oak Valley Academy of Theoretical Magic". 
+You are very quick learner and graduate 5 years earlier than intended 
+from the Academy. You are only {age} years old when you get a very 
+prominent position in the Oak Valley. 
+You become known as "{name} the Young".  
+Several years later you have a spouse and 2 children.

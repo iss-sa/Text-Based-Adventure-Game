@@ -1,0 +1,13 @@
+(1) Go left towards Uriella Fortress.
+(2) Go right towards Acropolis.
+Walk on
+The fumes make you lightheaded, eventhough you haven't 
+even breathed them in much. 
+You quickly move away from the fog and travel up the next mountain. 
+After several more days you finally reach a road! 
+It’s well travelled and you ask a merchant where the road leads to. 
+He explains: 
+To the right is the biggest city in the country - Acropolis. 
+To the left lies the Uriella, with the richest Fortress in Kebírghe.
+
+>> Which way do you go?

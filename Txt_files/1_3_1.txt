@@ -1,0 +1,14 @@
+(1) You’ve never stolen something before, and shouldn't risk it now.
+(2) You decide to try to steal more food and a ticket.
+You go to Trollore.
+To go to Trollore you need to board a passenger ship that 
+will take you to the island. As you see the price of a one way 
+trip you notice you won’t have any money left to buy more food. 
+You get a ticket to Trollore anyways. 
+As you arrive you notice how big and muscular everyone here is. 
+Maybe they are trolls after all? Or just very strong humans. 
+In any case you feel tiny in comparison. Everybody keeps bumping
+into you because they don't notice you. You don’t want to stay in 
+Trollore for too long, but you need food and another ticket out of here. 
+
+>> What do you do next?

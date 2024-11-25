@@ -1,0 +1,16 @@
+(1) Continue your travels.
+(2) Accept the job offer - You’ve had enough adventuring for now.
+Go to Uriella Fortress.
+Uriella Fortress is right at the edge of the High Cliffs. 
+The view is breathtaking. 
+To the north you see the Old Wilds and to the South-West 
+the Red Sea. You find out that the chasm in the north is the one you 
+saw previously. It’s called the Dragon’s Mouth. 
+You are very tired and not sure if you want to continue with 
+your journey anymore. 
+You get offered a guards position at the Dragon’s Wall. 
+You would have to monitor the activity of the fumes. 
+If neccessary you have to alert the townsfolk if they have to 
+evacuate the lower ring. 
+
+>> What do you decide?

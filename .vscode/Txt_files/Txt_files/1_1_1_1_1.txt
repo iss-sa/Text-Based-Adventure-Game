@@ -1,0 +1,8 @@
+(1) You decide to have a new life here exploring the Jungle with your new friends and your second family
+(2) The memory of you old home is still too strong. You would feel guilty to accept the offer, so you decide to leave Hyghel.
+Walk around the jungle along the water.
+It takes you a month of hard work to properly learn how to survive in the wild alone.
+During that time you start loving Hyghel. You almost feel at home here, especially in the family who took you in when you arrived. 
+They love you too and wan tyou to permanently stay with them. They offer to adopt you. 
+>> What will you do?
+

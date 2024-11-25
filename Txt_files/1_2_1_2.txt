@@ -1,0 +1,9 @@
+(1) Walk left
+(2) Walk right
+Leave the path.
+You don’t want to fall to your death, so you risk diverging 
+from the path. You travel more or less blindly through the mountains. 
+You are scared of dying here and wonder if maybe your 
+decision wasn’t the smartest.
+
+>> Decide:

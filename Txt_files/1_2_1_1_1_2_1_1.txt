@@ -1,0 +1,13 @@
+(1) Steal something and immediately leave the village.
+(2) Go into the village tavern.
+You steal the bag.
+You palm one of the rocks on the ground beside you, 
+and abruptly swing it towards the boys head. 
+You struck him hard and he falls back, quickly bleeding out.
+You grab the bag and search the body, finally finding a small pouch 
+full of coins from his inside pocket. 
+You run away from the Keep and towards the next village. 
+As you arrive in Dourphe 2 weeks later you again have barely 
+any food left.
+
+>> What do you do?

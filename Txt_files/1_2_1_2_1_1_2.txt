@@ -1,0 +1,20 @@
+The End!(Happy)
+(K) Press K!
+
+Go to Acropolis.
+Acropolis is the biggest city you have ever seen! 
+You walk through the busy marketplace and along stone roads and 
+end up before the university. 
+You are in awe. In that moment you decide you need to go there. 
+Unfortunately you don’t have the proper education, 
+nor the money. You work for years, first in the bad part of 
+the city, but slowly working yourself up to better paying jobs. 
+You study each night to be able to qualify for the 
+Acropolis University of Magic. Finally, after 8 years, you pass 
+the entrance exam and even get a scholarship! 
+During your life you become one of the most prominent figures of 
+the city. With your help the city’s crime rates drop to an all time low. 
+You become known as "{name} the Brilliant". 
+You live a happy life in the city, with frequent trips to the close 
+ally of Uriella Fortress. You also manage to sometimes visit your old home. 
+You die after a happy and accomplished life.

@@ -1,0 +1,10 @@
+﻿(1) You start hiking - You’ve always wanted to reach the peak and find out how far you could see from up there
+(2) You go around it - You wanted adventure far from home, 
+and Scarlet Mountain is still within viewing distance!
+Towards Scarlet Mountain.
+You’ve always wanted to hike up Scarlet Mountain and so you start walking towards it. 
+But as you come closer to the mountain you aren’t sure anymore. 
+You’ve never actually hiked up anything bigger than a small hill.
+As you reach the foot of the mountain you notice a path leading around it. 
+>> What do you do?
+

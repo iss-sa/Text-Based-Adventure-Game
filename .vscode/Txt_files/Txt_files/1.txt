@@ -1,0 +1,7 @@
+﻿(1) Left towards the seaport
+(2) Straight towards Scarlet Mountain
+(3) Right towards Trollore
+You write a message to your parents. Then you go to the kitchen to get some food, water and money. 
+You put on your sturdiest boots and thickest jacket and slip out of the door. 
+The Scarlet expanse, named after the mountain across from it, spreads before you. You are suddenly overwhelmed. 
+>> Which way do you go?

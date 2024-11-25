@@ -1,0 +1,11 @@
+﻿(1) Take the adventuring slow for now and pay a merchant to take you to Port Fallow
+(2) Try to assemble your own crew with your money and go on a daring voyage!
+Port Dumswith.
+You've always wanted to go to the sea, so you travel across the Scarlet expanse towards Port Dumswith. 
+It’s even more beautiful than you ever imagined!
+You start looking for someone to join on a daring adventure. 
+Unfortunately, the merchants only offer you a ride straight to Port Fallow. 
+They warn the water currents are too treacherous for the unskilled. 
+The current could crush you against the sharp rocks of the high cliffs of Uriella!
+>> What should you do?
+

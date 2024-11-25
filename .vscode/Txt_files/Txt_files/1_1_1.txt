@@ -1,0 +1,10 @@
+(1) Risk the shorter way without a guide
+(2) Go around and risk running out of food
+Join a merchant ship to Port Fallow.
+After a few days of journey you arrive at Port Fallow. It’s much dirtier and uglier than the previous port and you don’t want to linger. 
+You learn the closest village is Hyghel, but you are advised against going the direct route. 
+The direct route very dangerous and you are easily lost without a guide (who you can’t afford anymore).
+ But the way around the jungle along the water takes several weeks without a horse (which you also can’t afford).
+You are not sure if you will be able to hunt anything successfully when your food runs out. 
+>> Which way do you go?
+

@@ -1,0 +1,8 @@
+(1) Hunting
+(2) Foraging 
+Walk around the jungle along the water.
+You can’t risk going through the jungle without a guide, you have to go around. 
+The food runs out after 5 days, but fortunately the jungle provides enough fruits. 
+After 3 difficult weeks you finally reach Hyghel.
+There you are welcomed, and you quickly befriend the townsfolk. They teach you how to survive in the woods on your own. 
+>> What do you learn about?

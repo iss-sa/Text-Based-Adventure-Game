@@ -1,0 +1,12 @@
+(1) Whatever the cost, you try to steal the bag from the boy
+(2) You join the crew for the offer to get rich
+Continue with your adventure.
+Exhausted you stumble along the road. 
+You decided days ago that you should have stolen from the townsfolk. 
+If you had, you wouldn’t be so close to death now. 
+You lost track of the days you have already spent walking through the mountains. 
+Eventually you arrive at the Silph Mountain’s Keep. You are in the bad part of town and close to starvation. 
+A malicious looking young boy of maybe 15 approaches you. 
+He offers you a chance to get rich if you help him and his crew out with a job. 
+He holds a big bag of food infront of you as first payment.
+>> What do you do?

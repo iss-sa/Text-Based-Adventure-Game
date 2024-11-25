@@ -1,0 +1,8 @@
+(1) You find a way around the desert - You don’t trust this unnatural occurrence
+(2) You are too curious - Anyway, you can always easily return by orienteering yourself by the mountains
+Change Direction.
+You turn north and walk along the water to find a way across the water. After a week you arrive at a bridge called Troll’s Pass. 
+With extreme caution you slowly cross it, but no Trolls jump up to attack you.You arrive safely on the other side. 
+You start to run low on food and really should find a settlement to restock. 
+Suddenly you stand before a desert. It’s completely out of place, there is a clear cut line between fresh gras and hot sand. 
+>> What do you do?

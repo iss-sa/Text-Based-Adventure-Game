@@ -1,0 +1,11 @@
+﻿(1) You go around it.
+(2) You start hiking. 
+Towards Scarlet Mountain.
+You’ve always wanted to hike up Scarlet Mountain and 
+so you start walking towards it. 
+But as you come closer to the mountain you aren’t sure anymore. 
+You’ve never actually hiked up anything bigger than a small hill.
+As you reach the foot of the mountain you notice a path leading around it. 
+
+>> What do you do?
+

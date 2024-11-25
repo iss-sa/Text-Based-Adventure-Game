@@ -1,0 +1,15 @@
+(1) You are intimidated - you just want to be home in your comfortable bed.
+(2) You feel homesick, but you also feel very excited.
+To the Peak.
+You have always wanted to reach the peak and find out 
+how far you could see from up there.
+After foraging all the food the Scarlet Expanse can give, 
+you start to hike. 
+It’s difficult, and the blisters are killing you, but you don’t give up. 
+After almost a week you finally reach the top. 
+You notice how tiny the Scarlet Mountain is compared to the 
+dark and dangerous mountains behind it. 
+You never realised how big the world could be.
+You turn towards your home and can barely see it in the distance. 
+
+>> What are you feeling?

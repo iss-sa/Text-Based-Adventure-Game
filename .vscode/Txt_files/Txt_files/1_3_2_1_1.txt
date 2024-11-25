@@ -1,0 +1,11 @@
+(1) You want to know more about the nurse 
+(2) You hate being stuck in bed, you would rather be out there discovering this new place
+Eat the berries
+You eat a big handful of the berries and then continue walking. 
+The morning after consumption you notice it: Severe stomach cramps have you gasping on the floor. 
+Diarrhea comes shortly after, as does the vomiting. 
+From all the pitiful noise you are making a few guards from nearby are alerted to you and come find you. 
+They bring you to a healer in their reclusive city who takes care of you for several weeks. 
+In a delirious high-fever state you believe the nurse assigned to you is an angel saving you. 
+>> As you recover, what are your thoughts?
+

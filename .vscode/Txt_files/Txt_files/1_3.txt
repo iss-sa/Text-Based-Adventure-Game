@@ -1,0 +1,11 @@
+﻿(1) You changed your mind, you don’t want to go to Trollore anymore
+(2) Those are just stupid rumours, you shouldn’t listen to them and just go to Trollore
+Right towards Trollore.
+Trollore is a Volcano island. Folk say that Trollore gets its name from the inhabitants, 
+who are rumoured to be trolls. But you are not sure if you believe that. 
+You decide to find out for yourself. 
+But during your walk, you start to get doubts.
+What if there are really trolls there?
+Ugly, violent and dirty beasts that would immediately challenge you to a duel and kill you. You are scared.
+>> What do you think?
+

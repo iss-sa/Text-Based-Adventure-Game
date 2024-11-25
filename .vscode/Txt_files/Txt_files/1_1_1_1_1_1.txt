@@ -1,0 +1,10 @@
+(1) You are so tired of traveling for now and you just want to finally be able to talk to people
+(2) You reckon a few more days of no human contact won’t make a difference anymore at this point
+Leave Hyghel.
+The goodbyes are painful, but you promise to come back to visit. 
+You follow the Northern Way, a long, long road straight through the Old Wilds. 
+It is rarely used nowadays and you are on the road alone for 9 weeks. 
+You have no issues with getting food because of your new skills.
+However, 9 weeks without human contact starts to consume more and more of your sanity. 
+Finally you see 2 signs: “Fharswith 40km” and “Riverfoot Keep 160km”.
+>> What do you think?

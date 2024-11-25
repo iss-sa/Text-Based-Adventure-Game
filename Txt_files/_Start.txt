@@ -1,0 +1,19 @@
+﻿(1) Leave
+(2) Stay 
+(Q) Quit (You can quit the game by entering q at any time)
+“{name}! You have to come help me with the hay”, 
+your mother calls from outside. 
+You sigh loudly as you look onto Scarlet Mountain. 
+You wonder how your family's farm would look from all the way up there. 
+Would it look as tiny as it felt to you? Your bedroom feels claustrophobic, 
+but helping your parents outside with the farmwork feels suffocating. 
+You know you are meant for more than just inheriting your parent's farm. 
+It has been passed down for generations. 
+You don't want to be another link in the chain of Bear Creek Farmers -
+You want adventure, you want to explore the entire world! 
+But you are stuck here. 
+...
+You lie awake in bed. You can’t sleep.
+The day was as mundane as always, and you just can’t do it anymore.
+If you don’t leave now, you will never leave this village.
+>> You have to decide now: 

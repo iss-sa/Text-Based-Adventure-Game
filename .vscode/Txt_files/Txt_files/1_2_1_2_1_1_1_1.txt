@@ -1,0 +1,9 @@
+(1) You don’t want to overtax her hospitality and decide to stay to look after her manor
+(2) You really like the old Lady and wish to join her
+Continue travelling.
+You board a passenger ship and travel east along the Sea Serpent. It's a river conecting the Red Sea with the South Sea. 
+You disembark the ship at the last stop - Betwixt Town. It seems to be a holiday resort for the rich. 
+Especially for the upper class of Riverfoot Keep go there frequently. 
+You befriend an old Lady and she takes you in. After the summer she asks you if you want to join her in Riverfoot Keep for the Winter.
+>> What do you do?
+

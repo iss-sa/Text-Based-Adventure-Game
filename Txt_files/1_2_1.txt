@@ -1,0 +1,15 @@
+(1) Risk the road through the canyon
+(2) Risk diverging from the path
+Around the mountain
+You wanted adventure far from home, and Scarlet Mountain is 
+still within viewing distance!
+You enter the mountain range called Kebírghe. 
+It’s a dark and lonely place, the road you follow doesn't seem 
+to be used often. 
+After a week you stand infront of a deep canyon - 
+The bottom is barely visible. 
+The road seems to continue through it, but it doesn’t look safe.
+You are scared of falling to your death, 
+but you are also scared of leaving the road.
+ 
+>> What should you do?

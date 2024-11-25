@@ -1,0 +1,13 @@
+(1) Anything is better than no food and no fluids at all.
+(2) You determine it’s safest to ignore them and walk on.
+Go around the desert.
+You decide it’s probably safest to avoid the unnatural desert. 
+While your limited foraging skills can’t nourish you properly, 
+at least you have the river nearby for water. 
+You reach the Bridge leading to the Black Peaked Mountains. 
+There you won’t be able to rely on the river for water anymore. 
+You cross the Bridge and walk through the silent, dead mountains. 
+After 2 days you have eaten all your food and have no water left. 
+In the distance you notice a strange bush with bright red berries. 
+You don’t recognise those berries. 
+>> What do you do?
